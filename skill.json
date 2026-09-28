@@ -1,0 +1,40 @@
+{
+  "name": "genpark-hubx-ai-apps-orchestration-skill",
+  "version": "1.1.0",
+  "description": "GenPark AI Agent Skill - HubX intelligent AI apps portfolio, multi-model chatbot orchestration, vision diagnostics & generative tools distilled from hubx.co/products.",
+  "category": "Service",
+  "author": "AlphaPark",
+  "tags": [
+    "hubx",
+    "nova",
+    "plantapp",
+    "davinci",
+    "momo",
+    "homeai",
+    "lean",
+    "noteai",
+    "mcp"
+  ],
+  "tools": [
+    {
+      "name": "route_hubx_app",
+      "description": "Automatically classify and dispatch user requests to the optimal HubX app."
+    },
+    {
+      "name": "dispatch_nova_assistant",
+      "description": "Execute multi-model conversational query via Nova All-in-One AI."
+    },
+    {
+      "name": "dispatch_vision_analysis",
+      "description": "Execute botanical (PlantApp) or nutrition/macro (Lean) visual diagnostics."
+    },
+    {
+      "name": "dispatch_generative_studio",
+      "description": "Execute artistic generation (DaVinci), portrait styling (Momo), or home redesign (HomeAI)."
+    },
+    {
+      "name": "run_benchmark_hubx_portfolio",
+      "description": "Run comprehensive end-to-end benchmark across all 10 HubX products."
+    }
+  ]
+}
